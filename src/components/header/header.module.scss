@@ -1,0 +1,22 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  width: 1020px;
+  padding: 30px;
+  border-bottom: 1px solid #EAEAEA;
+}
+
+.headerLeft {
+  display: flex;
+  gap: 10px;
+}
+
+.logo {
+  width: 40px;
+  height: 40px;
+}
+
+.headerRight {
+  display: flex;
+  gap: 20px;
+}
